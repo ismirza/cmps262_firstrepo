@@ -8,3 +8,6 @@
 
 ## Which database will this application use?
 - This application will use MongoDB
+
+## What programming languages will this application use?
+- this application will use Javascript, HTML, CSS
