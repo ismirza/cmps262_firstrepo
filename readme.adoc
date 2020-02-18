@@ -1,3 +1,10 @@
-#Sausage Ordering application
+# Sausage Ordering application
 
-##What is the 21sausage about?
+## What is the 21sausage about?
+- this is an application to order sausages
+
+## What is this application written on?
+- this application uses NodeJS and Express, with Handlebars
+
+## Which database will this application use?
+- This application will use MongoDB
