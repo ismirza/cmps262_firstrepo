@@ -7,7 +7,7 @@
 - this application uses NodeJS and Express, with Handlebars
 
 ## Which database will this application use?
-- This application will use MongoDB
+- This application will use mySQL
 
 ## What programming languages will this application use?
 - this application will use Javascript, HTML, CSS
