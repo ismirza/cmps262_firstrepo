@@ -34,7 +34,7 @@ app.set('view engine', 'handlebars');
 //app.locals.nav = GLOBALS.nav_items();
 
 //Where we set the port for the app
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 3001);
 
 //ROUTING
 
